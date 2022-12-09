@@ -1,6 +1,5 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "defaultProject": "upgrading-from-angular-js",
   "newProjectRoot": "projects",
   "projects": {
     "upgrading-from-angular-js": {
